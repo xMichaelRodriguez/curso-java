@@ -1,3 +1,5 @@
+package exercisesTopic3;
+
 public class Car {
     public int numberOfDoors;
 

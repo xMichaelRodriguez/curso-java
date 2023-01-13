@@ -1,3 +1,7 @@
+package exercisesTopic3;
+
+import exercisesTopic3.Car;
+
 public class Main {
     public static void main(String[] args) {
         Car coche=new Car();
