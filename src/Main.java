@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Car coche=new Car();
-        coche.addDoor(2);
+        coche.addDoor();
         System.out.println(coche.numberOfDoors);
 
         System.out.println(suma(10,20,30));
