@@ -2,32 +2,32 @@ package exerciseTopic8;
 
 public class Persona {
     private String name;
-    private int edad;
+    private int age;
     private int phoneNumber;
 
 
-    public int getEdad(){
-        return this.edad;
+    public int getAge() {
+        return this.age;
     }
 
-    public void setEdad(int edad){
-        this.edad=edad;
+    public void setEdad(int age) {
+        this.age = age;
     }
 
-    public int getPhoneNumber(){
+    public int getPhoneNumber() {
         return this.phoneNumber;
     }
 
-    public void setPhoneNumber(int phoneNumber){
-        this.phoneNumber=phoneNumber;
+    public void setPhoneNumber(int phoneNumber) {
+        this.phoneNumber = phoneNumber;
     }
 
-    public String getName(){
+    public String getName() {
         return this.name;
     }
 
-    public void setName(String name){
-        this.name=name;
+    public void setName(String name) {
+        this.name = name;
     }
 
 }
